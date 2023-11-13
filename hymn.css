@@ -1,0 +1,39 @@
+body{
+    background-attachment: fixed;
+	background-image: linear-gradient(white,red);
+}
+#Godlo {
+    padding: 5px;
+    width: 300px;
+	height: 300px;
+  }
+#pl {
+	scroll-behavior: smooth;
+  padding: auto;
+  width: 900px;
+  height: 300px;
+  }
+  p{
+	font-family: Trebuchet 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	color: rgb(255, 255, 255);
+	background-color: rgb(255, 0, 0);
+	font-size: 45px;
+	font-style: italic;
+	text-shadow: 2px 2px #000000
+  }
+  h1{
+	border-style: ridge;
+	border-radius: 50px;
+	border-width: 8px;
+	color: white;
+	letter-spacing: 3px;
+	text-align: center;
+	text-transform: uppercase;
+	word-spacing: 10px;
+	cursor: url(cursor.cur), auto ;
+	text-shadow: 3px 3px 20px #000000
+  }
+  div{
+align-self: center;
+	max-width: 1000px;
+  }
